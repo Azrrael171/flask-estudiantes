@@ -1,6 +1,6 @@
 # API Estudiantes
 
-Este proyecto contiene una API desarrollada con Flask que lista estudiantes desde una base de datos SQLite.
+Este proyecto contiene una API desarrollada con Flask que lista estudiantes como Tarea Final del curso
 
 ## Instalación
 
